@@ -1,3 +1,4 @@
 b2
 git_bob_v1
 
+dodanie 1 linii dla commit "1"
