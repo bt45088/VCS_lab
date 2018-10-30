@@ -1,3 +1,4 @@
 a2
 git_alice_v1
 
+dodanie 1 linii dla commit "1"
